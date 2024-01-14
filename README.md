@@ -2,7 +2,7 @@
 
 I'm a junior developer familiar with HTML, CSS, PHP and Laravel.
 Currently wrapping up my coursework and eager to put my knowledge into practice.
-Quick learner and passionate about web development!
+
 
 ## 🌱 Skills and Technologies 
 
