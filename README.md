@@ -1,17 +1,18 @@
 # Hello, I'm Angelos. 🦑
 
-I'm a junior (wannabe Fullstack) developer familiar with HTML, CSS, PHP and Laravel.
-Currently starting up my java coursework and eager to put my knowledge into practice.
+I'm a junior developer.
+Currently finishing my coursework and eager to put my knowledge into practice.
 
 
 ## 🌱 Skills and Technologies 
 
 - HTML
 - CSS
-- Javascript
 - PHP
   - Laravel
-- Java ⟳ loading...
+- Python
+  - FastApi
+- Java ⟳ focusing here for now..
 - MySQL
 - Git/Github
 
