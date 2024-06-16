@@ -12,7 +12,8 @@ Currently finishing my coursework and eager to put my knowledge into practice.
   - Laravel
 - Python
   - FastApi
-- Java ⟳ focusing here for now..
+- Java 
+  - Spring
 - MySQL
 - Git/Github
 
