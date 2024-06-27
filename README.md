@@ -10,7 +10,7 @@ Eager to contribute to innovative software development projects and grow within 
 ## 🌱 Skills and Technologies i have worked with.
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,fastapi,php,laravel,postgres,docker,html,css,tailwind,js&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,fastapi,php,laravel,postgres,docker,html,css,tailwind,js&perline=6)](https://skillicons.dev)
 
 
 ## 📫 Contact Me
