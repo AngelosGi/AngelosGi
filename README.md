@@ -2,7 +2,7 @@
 
 Aspiring Junior Web Developer with a background in technical support and software integration.<br>
 Experience in resolving software and hardware issues, maintaining CRM records, and collaborating with teams to meet targets.<br>
-Knowledgeable in web technologies, including Java, Spring, Python, FastAPI, MVC frameworks, docker and SQL databases.
+Knowledgeable in web technologies, including Java, Spring,  Python, FastAPI, MVC frameworks, docker and SQL databases.
 
 Eager to contribute to innovative software development projects and grow within a dynamic company.
 
@@ -16,6 +16,11 @@ Eager to contribute to innovative software development projects and grow within 
 ## 📫 Contact Me
 
  <div id="badges">
+   <a href="https://anggi.io/">
+    <img src="https://img.shields.io/badge/anggi.io-blue?style=social&logo=Read.cv&logoColor=blue"/>
+   </a>
+  </div>
+<div id="badges">
    <a href="https://www.linkedin.com/in/anggian/">
     <img src="https://img.shields.io/badge/anggian-blue?style=social&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
    </a>
