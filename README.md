@@ -1,7 +1,7 @@
 # Hello, I'm Angelos. 🦑
 
 Aspiring Junior Web Developer with a background in technical support and software integration.<br>
-Experience in resolving software and hardware issues, maintaining CRM records, and collaborating with teams to meet targets.<br>
+Experience in resolving software and hardware issues and collaborating with teams to meet targets.<br>
 Knowledgeable in web technologies, including Java, Spring,  Python, FastAPI, MVC frameworks, docker and SQL databases.
 
 Eager to contribute to innovative software development projects and grow within a dynamic company.
