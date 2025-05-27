@@ -1,6 +1,6 @@
 # Hello, I'm Angelos 🦑 
 
-**Full-Stack Developer | DevOps**  
+**Full-Stack Developer | Cloud & DevOps**  
 
 📍 Thessaloniki, GR | 🌐 [CV](https://anggi.io) | 💻 [Projects](https://github.com/AngelosGi?tab=repositories)
 
