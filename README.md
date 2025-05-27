@@ -15,7 +15,7 @@ Passionate about building scalable web applications and automating infrastructur
 ## 🛠️ Tech Stack  
 
 #### Backend  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,fastapi,php,laravel,postgres,mysql&perline=6)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,py,fastapi,php,laravel,postgres,mysql&perline=6)](https://skillicons.dev)  
 
 #### DevOps  
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,githubactions,linux&perline=6)](https://skillicons.dev)  
