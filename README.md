@@ -1,33 +1,44 @@
-# Hello, I'm Angelos. 🦑
+# Hello, I'm Angelos 🦑 
 
-Aspiring Junior Web Developer with a background in technical support and software integration.<br>
-Experience in resolving software and hardware issues and collaborating with teams to meet targets.<br>
-Knowledgeable in web technologies, including Java, Spring,  Python, FastAPI, MVC frameworks, docker and SQL databases.
+**Full-Stack Developer | DevOps**  
 
-Eager to contribute to innovative software development projects and grow within a dynamic company.
+📍 Thessaloniki, GR | 🌐 [CV](https://anggi.io) | 💻 [Projects](https://github.com/AngelosGi?tab=repositories)
 
+Passionate about building scalable web applications and automating infrastructure. Transitioning from technical support to development by mastering modern tools like Spring Boot, Docker, Terraform and Kubernetes.  
 
-## 🌱 Skills and Technologies i have worked with.
+### 🔨 What I Bring to the Table  
+- **Problem-Solving**: Debugged complex software/hardware issues in prior IT roles.  
+- **Collaboration**: Worked cross-functionally to deliver solutions aligned with business needs.  
+- **Automation Mindset**: Built CI/CD pipelines and containerized deployments for personal projects.  
+- **Continuous Learning**: Certified Multi-Cloud DevOps Engineer with hands-on cloud experience.  
 
+## 🛠️ Tech Stack  
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,fastapi,php,laravel,postgres,docker,html,css,tailwind,js&perline=6)](https://skillicons.dev)
+#### Backend  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,fastapi,php,laravel,postgres,mysql&perline=6)](https://skillicons.dev)  
 
+#### DevOps  
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,githubactions,linux&perline=6)](https://skillicons.dev)  
 
-## 📫 Contact Me
+#### Frontend  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,thymeleaf&perline=6)](https://skillicons.dev) 
 
- <div id="badges">
-   <a href="https://anggi.io/">
-    <img src="https://img.shields.io/badge/anggi.io-blue?style=social&logo=Read.cv&logoColor=blue"/>
-   </a>
-  </div>
-<div id="badges">
-   <a href="https://www.linkedin.com/in/anggian/">
-    <img src="https://img.shields.io/badge/anggian-blue?style=social&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
-   </a>
-</div>
+## 🌟 Featured Projects  
+1. **[Personal Resume Website API](https://github.com/AngelosGi/personalWebsite)**
+   Spring Boot REST API with CI/CD, Github actions, Terraform (Hetzner)
 
+3. **[Citizen Registry API](https://github.com/AngelosGi/citizen-registry)**  
+   Spring Boot REST API with CI/CD, Kubernetes, and Terraform (AWS).  
 
-<!---
-AngelosGi/AngelosGi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+4. **[Magic Inventory System](https://github.com/AngelosGi/magical_inventory_systemApi)**  
+   FastAPI service with PostgreSQL, Docker, and role-based access.  
+
+5. **[SolrCloud Parliamentary Search](https://github.com/AngelosGi/solrcloud-parliamentary-speeches)**  
+   Automated CSV→Solr indexing with Docker and Python ETL. WIP 
+  
+
+## 📬 Let's Connect  
+[![Portfolio](https://img.shields.io/badge/anggi.io-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://anggi.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anggian/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:giannopoulos.ang@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AngelosGi)
