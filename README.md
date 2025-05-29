@@ -33,8 +33,7 @@ Passionate about building scalable web applications and automating infrastructur
 4. **[Magic Inventory System](https://github.com/AngelosGi/magical_inventory_systemApi)**  
    FastAPI service with PostgreSQL, Docker, and role-based access.  
 
-5. **[SolrCloud Parliamentary Search](https://github.com/AngelosGi/solrcloud-parliamentary-speeches)**  
-   Automated CSV→Solr indexing with Docker and Python ETL. WIP 
+
   
 
 ## 📬 Let's Connect  
