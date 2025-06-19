@@ -25,7 +25,7 @@ Passionate about building scalable web applications and automating infrastructur
 
 ## 🌟 Featured Projects  
 1. **[Personal Resume Website API](https://github.com/AngelosGi/personalWebsite)**
-   Spring Boot REST API with CI/CD, Github actions, Terraform (Hetzner)
+   Spring Boot REST API with CI/CD, Github actions, Ansible, Terraform (Hetzner)
 
 3. **[Citizen Registry API](https://github.com/AngelosGi/citizen-registry)**  
    Spring Boot REST API with CI/CD, Kubernetes, and Terraform (AWS).  
