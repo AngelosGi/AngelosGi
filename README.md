@@ -18,7 +18,7 @@ Passionate about building scalable web applications and automating infrastructur
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,py,fastapi,php,laravel,postgres,mysql&perline=6)](https://skillicons.dev)  
 
 #### DevOps  
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,githubactions,linux&perline=6)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,azure,githubactions,ansible,linux&perline=6)](https://skillicons.dev)  
 
 #### Frontend  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,thymeleaf&perline=6)](https://skillicons.dev) 
